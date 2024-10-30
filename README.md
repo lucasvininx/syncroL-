@@ -1,16 +1,16 @@
-# Syncroll+ Website
+# SyncroL+ Website
 
-Este repositório contém o código-fonte do website do Syncroll+, uma aplicação voltada para o controle de estoque e validade de produtos em supermercados.
+Este repositório contém o código-fonte do website do SyncroL+, uma aplicação voltada para o controle de estoque e validade de produtos em supermercados.
 
 ## 📦 Funcionalidades do Website
 
-- Apresentação da aplicação Syncroll+ e suas funcionalidades.
+- Apresentação da aplicação SyncroL+ e suas funcionalidades.
 - Interface responsiva e amigável.
 - Informações sobre como usar a aplicação.
 - Links para download.
 
 ## 📁 Estrutura de Pastas
-syncroll-website 
+syncroL+-website 
 ├── assets # Imagens e outros ativos 
  │ ├── img 
 ├── styles # Estilos do website 
