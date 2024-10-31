@@ -10,6 +10,7 @@
   --gradient: linear-gradient(to bottom, #99b0cc, #1900a7);
 }
 
+
 * {
   padding: 0;
   margin: 0;
@@ -132,7 +133,7 @@ nav {
   gap: 2rem;
   background-color: var(--primary-color);
   transition: 0.5s;
-  z-index: 1;
+  z-index: -1;
   transform: translateY(-100%);
 }
 
@@ -178,7 +179,7 @@ nav {
   position: relative;
   isolation: isolate;
   margin-bottom: 2rem;
-  font-size: 2.75rem;
+  font-size: 1.75rem;
   font-weight: 800;
   color: var(--text-dark);
   line-height: 3.25rem;
@@ -623,7 +624,7 @@ nav {
 
   .download__image img {
     position: absolute;
-    max-width: 400px;
+    max-width: 300px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
